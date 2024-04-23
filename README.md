@@ -3,7 +3,7 @@
 
 <br>
 
-![Climate_Change](.images/chat.png)
+![Climate_Change](images/chat.png)
 
 <br>
 
@@ -12,23 +12,7 @@
 Climate Chatbot is an innovative application designed to engage users in meaningful conversations about climate change. Unlike traditional chatbots that provide answers to user queries, Climate Chatbot takes a unique approach by solely asking questions related to climate change. By posing thought-provoking questions, the chatbot aims to stimulate discussions, raise awareness, and encourage users to explore the complexities of climate change.
 <br>
 
-## ⭐  Features
-* Parkinson's disease detection based on spiral and wave sketch images.
-* Utilizes Teachable Machine, a user-friendly platform for training machine learning models.
-* Achieves an accuracy rate of 83%, providing reliable results.
-* Fast and efficient detection process.
-* Easy to use and integrate into existing applications.
 
-<br>
-
-## ⭐  How to Use
-1. Ensure that you have the necessary dependencies installed.
-2. Obtain a dataset of spiral and wave sketch images.
-3. Train the Parkonix algorithm using Teachable Machine, providing the dataset as input.
-4. Save the trained model and export it in a compatible format.
-5. Integrate the Parkonix algorithm into your application and utilize it for Parkinson's disease detection.
-
-<br>
 
 ## ⭐  Model is developed on Google AI Platform: Your Cloud-Based Machine Learning Powerhouse
 
