@@ -78,6 +78,6 @@ streamlit run main.py
 <br>
 
 ## ⭐ Note:
-### **If you find my GitHub repository useful, why not give it a star? It's like giving a little virtual high-five that makes my day!**
+### **If you've found my GitHub repository helpful, why not brighten my day with a star? It's a small gesture that means a lot and keeps the motivation flowing!**
 
 <br>
